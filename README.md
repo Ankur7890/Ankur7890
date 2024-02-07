@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ankur7890
 - 👀 I’m interested in opensource and container solutions.
-- 🌱 I’m currently learning terraform, OCP.
 - 💞️ I’m looking to collaborate on new technologies, freelancing and webinars.
 
 <!---
