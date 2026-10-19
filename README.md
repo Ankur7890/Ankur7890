@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ankur Rastogi
-- 👀 I’m interested in opensource practitioner.
+- 👀 I’m interested in opensource technologies.
 - 💞️ I’m looking to collaborate on new technologies, freelancing and webinars.
 
 <!---
